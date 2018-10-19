@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_TransferBank,Chrome 65.0.3302.0,,2018-10-16 15:10:56,2018-10-16 15:11:29,32.335s,PASSED
+,,,,,,
+Test Cases/01_Member/Login_Reguler,Chrome 65.0.3302.0,,2018-10-16 15:10:57,2018-10-16 15:11:05,8.636s,PASSED
+openBrowser,Chrome 65.0.3302.0,,2018-10-16 15:10:57,2018-10-16 15:11:00,3.266s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 15:11:00,2018-10-16 15:11:02,1.583s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-16 15:11:02,2018-10-16 15:11:02,0.246s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-16 15:11:02,2018-10-16 15:11:02,0.152s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:02,2018-10-16 15:11:03,0.968s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:03,2018-10-16 15:11:05,2.029s,PASSED
+,,,,,,
+Test Cases/02_PDP/PDP_Reguler,Chrome 65.0.3302.0,,2018-10-16 15:11:05,2018-10-16 15:11:21,15.724s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 15:11:06,2018-10-16 15:11:10,4.058s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:10,2018-10-16 15:11:12,2.005s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:12,2018-10-16 15:11:12,0.106s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:12,2018-10-16 15:11:14,2.003s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:14,2018-10-16 15:11:14,0.126s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:14,2018-10-16 15:11:16,2.005s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:16,2018-10-16 15:11:17,1.228s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:17,2018-10-16 15:11:19,2.003s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:19,2018-10-16 15:11:21,1.943s,PASSED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank,Chrome 65.0.3302.0,,2018-10-16 15:11:21,2018-10-16 15:11:25,3.885s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:21,2018-10-16 15:11:22,0.159s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:22,2018-10-16 15:11:23,1.003s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:23,2018-10-16 15:11:23,0.128s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:23,2018-10-16 15:11:24,1.005s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:24,2018-10-16 15:11:24,0.140s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:24,2018-10-16 15:11:25,1.005s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:25,2018-10-16 15:11:25,0.171s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 65.0.3302.0,,2018-10-16 15:11:25,2018-10-16 15:11:25,0.030s,PASSED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-16 15:11:25,2018-10-16 15:11:28,2.924s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 15:11:25,2018-10-16 15:11:26,1.006s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 15:11:26,2018-10-16 15:11:26,0.148s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 15:11:26,2018-10-16 15:11:27,0.390s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 65.0.3302.0,,2018-10-16 15:11:27,2018-10-16 15:11:28,1.117s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 65.0.3302.0,,2018-10-16 15:11:28,2018-10-16 15:11:28,0.003s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 65.0.3302.0,,2018-10-16 15:11:28,2018-10-16 15:11:28,0.013s,PASSED

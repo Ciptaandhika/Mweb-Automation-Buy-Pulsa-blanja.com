@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_15_Autoplaced_BTN_BankTransfer" time="33" tests="3" failures="1" errors="0">
+   <testsuite name="TS_15_Autoplaced_BTN_BankTransfer" tests="3" failures="1" errors="0" time="33" timestamp="2018-10-16 11:17:47" hostname="cipta.andhika - CIPTA-E460.ad.metraplasa.co.id" id="Test Suites/AutoplacedMweb_Reguler/TS_15_Autoplaced_BTN_BankTransfer">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMweb_Reguler\\TS_15_Autoplaced_BTN_BankTransfer\\20181016_111746"/>
+         <property name="logFiles" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMweb_Reguler\\TS_15_Autoplaced_BTN_BankTransfer\\20181016_111746\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMweb_Reguler\\TS_15_Autoplaced_BTN_BankTransfer\\20181016_111746\\1539663496850.png"/>
+         <property name="hostName" value="cipta.andhika - CIPTA-E460.ad.metraplasa.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 65.0.3302.0"/>
+         <property name="hostAddress" value="10.10.99.244"/>
+         <property name="sessionId" value="1c87fdb79bc3683bb1b47ace4ebb882b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/01_Member/Login_Reguler" classname="Test Cases/01_Member/Login_Reguler" status="PASSED">
+         <system-out><![CDATA[2018-10-16 11:17:48 - [TEST_CASE][PASSED] - Test Cases/01_Member/Login_Reguler: Test Cases/01_Member/Login_Reguler
+
+2018-10-16 11:17:48 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-16 11:17:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-16 11:17:51 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/member/login' successfully
+
+2018-10-16 11:17:54 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/member/login' successfully
+
+2018-10-16 11:17:54 - [TEST_STEP][PASSED] - setText: Text 'testblj2' is set on object 'Object Repository/Member_Login/username'
+
+2018-10-16 11:17:54 - [MESSAGE][PASSED] - Text 'testblj2' is set on object 'Object Repository/Member_Login/username'
+
+2018-10-16 11:17:54 - [TEST_STEP][PASSED] - setText: Text '123qwe' is set on object 'Object Repository/Member_Login/password'
+
+2018-10-16 11:17:54 - [MESSAGE][PASSED] - Text '123qwe' is set on object 'Object Repository/Member_Login/password'
+
+2018-10-16 11:17:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Member_Login/Button_Masuk' is clicked on
+
+2018-10-16 11:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Member_Login/Button_Masuk' is clicked on
+
+2018-10-16 11:17:55 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 11:17:57 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/02_PDP/PDP_Reguler" classname="Test Cases/02_PDP/PDP_Reguler" status="PASSED">
+         <system-out><![CDATA[2018-10-16 11:17:57 - [TEST_CASE][PASSED] - Test Cases/02_PDP/PDP_Reguler: Test Cases/02_PDP/PDP_Reguler
+
+2018-10-16 11:17:57 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/item/jual-beli-pantene-black-shine-18983897' successfully
+
+2018-10-16 11:18:01 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/item/jual-beli-pantene-black-shine-18983897' successfully
+
+2018-10-16 11:18:01 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 11:18:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 11:18:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/close_dialog_gojek' is clicked on
+
+2018-10-16 11:18:03 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/close_dialog_gojek' is clicked on
+
+2018-10-16 11:18:03 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 11:18:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 11:18:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_tambah_ketroli' is clicked on
+
+2018-10-16 11:18:05 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_tambah_ketroli' is clicked on
+
+2018-10-16 11:18:05 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 11:18:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 11:18:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_ke_pembayaran' is clicked on
+
+2018-10-16 11:18:08 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_ke_pembayaran' is clicked on
+
+2018-10-16 11:18:08 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 11:18:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 11:18:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_Pembayaran' is clicked on
+
+2018-10-16 11:18:13 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_Pembayaran' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer" classname="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer" status="FAILED">
+         <failure type="FAILED" message="(Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1539663383712.run(Script1539663383712.groovy:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1539663466021.run(TempTestSuite1539663466021.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)"/>
+         <system-out><![CDATA[2018-10-16 11:18:13 - [TEST_CASE][FAILED] - Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1539663383712.run(Script1539663383712.groovy:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1539663466021.run(TempTestSuite1539663466021.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)
+
+2018-10-16 11:18:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jasa_Pengiriman/Pilih_Pengiriman' is clicked on
+
+2018-10-16 11:18:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Jasa_Pengiriman/Pilih_Pengiriman' is clicked on
+
+2018-10-16 11:18:13 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 11:18:14 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 11:18:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jasa_Pengiriman/KurirStandar' is clicked on
+
+2018-10-16 11:18:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Jasa_Pengiriman/KurirStandar' is clicked on
+
+2018-10-16 11:18:14 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 11:18:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 11:18:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/Click_Bank/ClickBank/Click_04_BTN' is clicked on
+
+2018-10-16 11:18:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/Click_Bank/ClickBank/Click_04_BTN' is clicked on
+
+2018-10-16 11:18:15 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 11:18:16 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 11:18:16 - [TEST_STEP][FAILED] - click: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+
+2018-10-16 11:18:16 - [MESSAGE][WARNING] - Test object with id 'Object Repository/Trade_Payment_Method/Click_Bank/BRI_Reguler/Click_13_BTN_BankTransfer' does not exist
+
+2018-10-16 11:18:16 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2018-10-16 11:18:17 - [MESSAGE][FAILED] - Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+[[ATTACHMENT|C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMweb_Reguler\\TS_15_Autoplaced_BTN_BankTransfer\\20181016_111746\\1539663496850.png]]]]></system-out>
+         <system-err><![CDATA[2018-10-16 11:18:13 - [TEST_CASE][FAILED] - Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1539663383712.run(Script1539663383712.groovy:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1539663466021.run(TempTestSuite1539663466021.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" classname="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" status="PASSED">
+         <system-out><![CDATA[2018-10-16 11:18:17 - [TEST_CASE][PASSED] - Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced
+
+2018-10-16 11:18:17 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 11:18:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 11:18:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/input_checkOut_Reguler' is clicked on
+
+2018-10-16 11:18:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/input_checkOut_Reguler' is clicked on
+
+2018-10-16 11:18:19 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/mobile/trades/index' successfully
+
+2018-10-16 11:18:19 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/mobile/trades/index' successfully
+
+2018-10-16 11:18:19 - [TEST_STEP][PASSED] - Statement - orderNumber = " - " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Member_BlanjaanSaya/Label_FirstOrderNumber)): Text of object 'Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'No. Order : 418692154435284019
+16 Okt 2018 09:54
+Pantene Black Shine
+  Rp 20.000 x 25'
+
+2018-10-16 11:18:20 - [MESSAGE][PASSED] - Text of object 'Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'No. Order : 418692154435284019
+16 Okt 2018 09:54
+Pantene Black Shine
+  Rp 20.000 x 25'
+
+2018-10-16 11:18:20 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 11:18:20 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 11:18:20 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 11:18:20 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-16 11:17:47 - [TEST_SUITE][FAILED] - TS_15_Autoplaced_BTN_BankTransfer: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1539663383712.run(Script1539663383712.groovy:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1539663466021.run(TempTestSuite1539663466021.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-out>
+      <system-err><![CDATA[2018-10-16 11:17:47 - [TEST_SUITE][FAILED] - TS_15_Autoplaced_BTN_BankTransfer: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer FAILED because (of) (Stack trace: com.kms.katalon.core.exception.StepFailedException: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:36)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:65)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:53)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)
+	at Script1539663383712.run(Script1539663383712.groovy:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:183)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:108)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:294)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:264)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:256)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:200)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:129)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:112)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:81)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:142)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:48)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:113)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:141)
+	at TempTestSuite1539663466021.run(TempTestSuite1539663466021.groovy:36)
+	at groovy.lang.GroovyShell.runScriptOrMainOrTestOrRunnable(GroovyShell.java:263)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:518)
+	at groovy.lang.GroovyShell.run(GroovyShell.java:507)
+	at groovy.ui.GroovyMain.processOnce(GroovyMain.java:653)
+	at groovy.ui.GroovyMain.run(GroovyMain.java:384)
+	at groovy.ui.GroovyMain.process(GroovyMain.java:370)
+	at groovy.ui.GroovyMain.processArgs(GroovyMain.java:129)
+	at groovy.ui.GroovyMain.main(GroovyMain.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.groovy.tools.GroovyStarter.rootLoader(GroovyStarter.java:109)
+	at org.codehaus.groovy.tools.GroovyStarter.main(GroovyStarter.java:131)
+)]]></system-err>
+   </testsuite>
+</testsuites>

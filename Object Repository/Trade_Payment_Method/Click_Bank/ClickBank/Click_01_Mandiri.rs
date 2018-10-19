@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_01_Mandiri</name>
+   <tag></tag>
+   <elementGuidId>5bf55074-0ff6-4013-a083-100a9435f056</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/div[6]/div[2]/ul/li[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/div[6]/div[2]/ul/li[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>

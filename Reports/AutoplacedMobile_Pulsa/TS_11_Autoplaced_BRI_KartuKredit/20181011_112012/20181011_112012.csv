@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_11_Autoplaced_BRI_KartuKredit,Chrome 65.0.3302.0,,2018-10-11 11:20:14,2018-10-11 11:20:25,11.414s,FAILED
+,,,,,,
+Test Cases/01_Member/Login Mobile,Chrome 65.0.3302.0,,2018-10-11 11:20:14,2018-10-11 11:20:23,8.932s,FAILED
+openBrowser,Chrome 65.0.3302.0,,2018-10-11 11:20:15,2018-10-11 11:20:18,3.324s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 11:20:18,2018-10-11 11:20:20,1.919s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 11:20:20,2018-10-11 11:20:20,0.352s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 11:20:20,2018-10-11 11:20:21,0.208s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 11:20:21,2018-10-11 11:20:21,0.499s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 11:20:21,2018-10-11 11:20:23,2.028s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 11:20:23,2018-10-11 11:20:23,0.050s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_11_ChooseMethodPayment_BRI_KartuKredit,Chrome 65.0.3302.0,,2018-10-11 11:20:23,2018-10-11 11:20:24,0.269s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-11 11:20:24,2018-10-11 11:20:24,0.022s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-11 11:20:24,2018-10-11 11:20:24,0.347s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-11 11:20:24,2018-10-11 11:20:24,0.040s,FAILED

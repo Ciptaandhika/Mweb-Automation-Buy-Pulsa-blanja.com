@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_12_Autoplaced_BRI_KartuKreditCicilan" time="23" tests="3" failures="0" errors="0">
+   <testsuite name="TS_12_Autoplaced_BRI_KartuKreditCicilan" tests="3" failures="0" errors="0" time="23" timestamp="2018-10-11 11:35:46" hostname="cipta.andhika - CIPTA-E460.ad.metraplasa.co.id" id="Test Suites/AutoplacedMobile_Pulsa/TS_12_Autoplaced_BRI_KartuKreditCicilan">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMobile_Pulsa\\TS_12_Autoplaced_BRI_KartuKreditCicilan\\20181011_113544"/>
+         <property name="logFiles" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMobile_Pulsa\\TS_12_Autoplaced_BRI_KartuKreditCicilan\\20181011_113544\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="cipta.andhika - CIPTA-E460.ad.metraplasa.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 65.0.3302.0"/>
+         <property name="hostAddress" value="10.10.99.244"/>
+         <property name="sessionId" value="746b28b2e0af39c67dc15a68e51a918d"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/01_Member/Login Mobile" classname="Test Cases/01_Member/Login Mobile" status="PASSED">
+         <system-out><![CDATA[2018-10-11 11:35:46 - [TEST_CASE][PASSED] - Test Cases/01_Member/Login Mobile: Test Cases/01_Member/Login Mobile
+
+2018-10-11 11:35:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-11 11:35:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-11 11:35:50 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/member/login' successfully
+
+2018-10-11 11:35:52 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/member/login' successfully
+
+2018-10-11 11:35:52 - [TEST_STEP][PASSED] - setText: Text 'testblj2' is set on object 'Object Repository/Member_Login/username'
+
+2018-10-11 11:35:52 - [MESSAGE][PASSED] - Text 'testblj2' is set on object 'Object Repository/Member_Login/username'
+
+2018-10-11 11:35:52 - [TEST_STEP][PASSED] - setText: Text '123qwe' is set on object 'Object Repository/Member_Login/password'
+
+2018-10-11 11:35:52 - [MESSAGE][PASSED] - Text '123qwe' is set on object 'Object Repository/Member_Login/password'
+
+2018-10-11 11:35:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Member_Login/Button_Masuk' is clicked on
+
+2018-10-11 11:35:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Member_Login/Button_Masuk' is clicked on
+
+2018-10-11 11:35:53 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-11 11:35:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-11 11:35:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/top-up/pulsa' successfully
+
+2018-10-11 11:35:57 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/top-up/pulsa' successfully
+
+2018-10-11 11:35:57 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-11 11:35:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-11 11:35:59 - [TEST_STEP][PASSED] - setText: Text '081289138338' is set on object 'Object Repository/Pulsa_Mobile/nmr_hp'
+
+2018-10-11 11:35:59 - [MESSAGE][PASSED] - Text '081289138338' is set on object 'Object Repository/Pulsa_Mobile/nmr_hp'
+
+2018-10-11 11:35:59 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-11 11:36:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-11 11:36:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Pulsa_Mobile/Pilih_nominal' is clicked on
+
+2018-10-11 11:36:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Pulsa_Mobile/Pilih_nominal' is clicked on
+
+2018-10-11 11:36:01 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-11 11:36:02 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-11 11:36:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Pulsa_Mobile/Nominal' is clicked on
+
+2018-10-11 11:36:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Pulsa_Mobile/Nominal' is clicked on
+
+2018-10-11 11:36:02 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-11 11:36:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-11 11:36:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Pulsa_Mobile/Blanja_Sekarang' is clicked on
+
+2018-10-11 11:36:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Pulsa_Mobile/Blanja_Sekarang' is clicked on
+
+2018-10-11 11:36:04 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-11 11:36:05 - [MESSAGE][PASSED] - Delayed 1 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_12_ChooseMethodPayment_BRI_KartuKreditCicilan" classname="Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_12_ChooseMethodPayment_BRI_KartuKreditCicilan" status="PASSED">
+         <system-out><![CDATA[2018-10-11 11:36:05 - [TEST_CASE][PASSED] - Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_12_ChooseMethodPayment_BRI_KartuKreditCicilan: Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_12_ChooseMethodPayment_BRI_KartuKreditCicilan
+
+2018-10-11 11:36:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/Click_Bank/ClickBank/Click_03_BRI' is clicked on
+
+2018-10-11 11:36:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/Click_Bank/ClickBank/Click_03_BRI' is clicked on
+
+2018-10-11 11:36:05 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-11 11:36:06 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-11 11:36:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/Click_Bank/BRI/Click_12_BRI_KartuKreditCicilan' is clicked on
+
+2018-10-11 11:36:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/Click_Bank/BRI/Click_12_BRI_KartuKreditCicilan' is clicked on
+
+2018-10-11 11:36:07 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-11 11:36:07 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" classname="Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" status="PASSED">
+         <system-out><![CDATA[2018-10-11 11:36:07 - [TEST_CASE][PASSED] - Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced: Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced
+
+2018-10-11 11:36:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/input_checkOut' is clicked on
+
+2018-10-11 11:36:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/input_checkOut' is clicked on
+
+2018-10-11 11:36:07 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/mobile/trades/index' successfully
+
+2018-10-11 11:36:08 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/mobile/trades/index' successfully
+
+2018-10-11 11:36:08 - [TEST_STEP][PASSED] - Statement - orderNumber = " - " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Member_BlanjaanSaya/Label_FirstOrderNumber)): Text of object 'Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'No. Order : 418680334451523019
+11 Okt 2018 11:34
+Telkomsel Pulsa Rp 25.000
+Nilai Top Up : 25000, Provider : Simpati 
+Rp 25.200 x 1'
+
+2018-10-11 11:36:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'No. Order : 418680334451523019
+11 Okt 2018 11:34
+Telkomsel Pulsa Rp 25.000
+Nilai Top Up : 25000, Provider : Simpati 
+Rp 25.200 x 1'
+
+2018-10-11 11:36:09 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-11 11:36:09 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-11 11:36:09 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-11 11:36:09 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-11 11:35:46 - [TEST_SUITE][PASSED] - TS_12_Autoplaced_BRI_KartuKreditCicilan: Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

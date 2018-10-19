@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20181010_181741</name>
+   <tag></tag>
+   <displayName>20181010_181741</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/AutoplacedMobile_Pulsa/TS_01_Autoplaced_Mandiri_MandiriDebitOnline/20181010_181741</reportLocation>
+         <runConfigDescription>
+            <groupName>Custom</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>mobile</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/AutoplacedMobile_Pulsa/TS_02_Autoplaced_Mandiri_Kartu_KreditCicilan/20181010_181741</reportLocation>
+         <runConfigDescription>
+            <groupName>Custom</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>mobile</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/AutoplacedMobile_Pulsa/TS_03_Autoplaced_Mandiri_KartuKredit/20181010_181741</reportLocation>
+         <runConfigDescription>
+            <groupName>Custom</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>mobile</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/AutoplacedMobile_Pulsa/TS_04_Autoplaced_Mandiri_E-Cash/20181010_181742</reportLocation>
+         <runConfigDescription>
+            <groupName>Custom</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>mobile</runConfigurationId>
+         </runConfigDescription>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+</ReportCollectionEntity>

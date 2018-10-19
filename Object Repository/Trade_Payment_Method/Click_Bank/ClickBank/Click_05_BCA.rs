@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_05_BCA</name>
+   <tag></tag>
+   <elementGuidId>b0420003-b9fb-4cb4-8c77-83ec9843fe7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/section/div[6]/div[3]/div/ul/li[1]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/section/div[6]/div[3]/div/ul/li[1]/div/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06_ChooseMethodPayment_BNI_TransferBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6e7b3d5-3074-4f36-bda8-76115823319c</testCaseGuid>
+</TestCaseEntity>

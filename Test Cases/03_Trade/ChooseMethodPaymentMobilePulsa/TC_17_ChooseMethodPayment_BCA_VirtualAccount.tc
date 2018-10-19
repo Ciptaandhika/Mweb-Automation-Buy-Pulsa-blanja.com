@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_17_ChooseMethodPayment_BCA_VirtualAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec2f6d37-2485-437d-814e-30fe2efa197f</testCaseGuid>
+</TestCaseEntity>

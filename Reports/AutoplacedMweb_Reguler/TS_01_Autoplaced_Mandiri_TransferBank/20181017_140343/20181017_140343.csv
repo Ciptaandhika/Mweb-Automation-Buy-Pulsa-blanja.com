@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_TransferBank,Chrome 65.0.3302.0,,2018-10-17 14:03:45,2018-10-17 14:05:10,1m - 24.455s,FAILED
+,,,,,,
+Test Cases/01_Member/Login_Reguler,Chrome 65.0.3302.0,,2018-10-17 14:03:45,2018-10-17 14:03:55,9.206s,PASSED
+openBrowser,Chrome 65.0.3302.0,,2018-10-17 14:03:46,2018-10-17 14:03:49,3.348s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-17 14:03:49,2018-10-17 14:03:51,1.697s,PASSED
+maximizeWindow,Chrome 65.0.3302.0,,2018-10-17 14:03:51,2018-10-17 14:03:52,1.141s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-17 14:03:52,2018-10-17 14:03:52,0.234s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-17 14:03:52,2018-10-17 14:03:52,0.207s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-17 14:03:52,2018-10-17 14:03:53,0.128s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-17 14:03:53,2018-10-17 14:03:55,2.021s,PASSED
+,,,,,,
+Test Cases/02_PDP/PDP_Reguler,Chrome 65.0.3302.0,,2018-10-17 14:03:55,2018-10-17 14:04:02,7.142s,FAILED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-17 14:03:55,2018-10-17 14:03:58,3.091s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-17 14:03:58,2018-10-17 14:03:59,1.003s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-17 14:03:59,2018-10-17 14:03:59,0.094s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-17 14:03:59,2018-10-17 14:04:01,2.004s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-17 14:04:01,2018-10-17 14:04:02,0.774s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank,Chrome 65.0.3302.0,,2018-10-17 14:04:02,2018-10-17 14:04:35,32.845s,FAILED
+selectOptionByLabel,Chrome 65.0.3302.0,,2018-10-17 14:04:02,2018-10-17 14:04:35,32.688s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-17 14:04:35,2018-10-17 14:05:09,34.248s,FAILED
+delay,Chrome 65.0.3302.0,,2018-10-17 14:04:35,2018-10-17 14:04:36,1.004s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-17 14:04:36,2018-10-17 14:05:09,33.030s,FAILED

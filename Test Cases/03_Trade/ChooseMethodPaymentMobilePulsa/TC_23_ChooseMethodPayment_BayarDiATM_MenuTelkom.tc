@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_23_ChooseMethodPayment_BayarDiATM_MenuTelkom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>530d3083-0018-4ac2-ba09-8d4c571fcc50</testCaseGuid>
+</TestCaseEntity>

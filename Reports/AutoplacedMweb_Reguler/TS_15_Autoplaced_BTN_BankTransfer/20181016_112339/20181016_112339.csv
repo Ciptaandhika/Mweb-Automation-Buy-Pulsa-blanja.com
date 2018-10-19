@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_15_Autoplaced_BTN_BankTransfer,Chrome 65.0.3302.0,,2018-10-16 11:23:41,2018-10-16 11:24:13,32.439s,FAILED
+,,,,,,
+Test Cases/01_Member/Login_Reguler,Chrome 65.0.3302.0,,2018-10-16 11:23:41,2018-10-16 11:23:52,10.976s,PASSED
+openBrowser,Chrome 65.0.3302.0,,2018-10-16 11:23:42,2018-10-16 11:23:45,3.345s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 11:23:45,2018-10-16 11:23:48,3.003s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-16 11:23:48,2018-10-16 11:23:49,0.685s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-16 11:23:49,2018-10-16 11:23:49,0.279s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 11:23:49,2018-10-16 11:23:50,1.091s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 11:23:50,2018-10-16 11:23:52,2.028s,PASSED
+,,,,,,
+Test Cases/02_PDP/PDP_Reguler,Chrome 65.0.3302.0,,2018-10-16 11:23:52,2018-10-16 11:23:58,6.048s,FAILED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 11:23:53,2018-10-16 11:23:55,2.173s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 11:23:55,2018-10-16 11:23:57,2.004s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 11:23:57,2018-10-16 11:23:58,1.505s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_15_ChooseMethodPayment_BTN_BankTransfer,Chrome 65.0.3302.0,,2018-10-16 11:23:58,2018-10-16 11:24:11,13.022s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-16 11:23:59,2018-10-16 11:24:11,12.633s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-16 11:24:11,2018-10-16 11:24:13,1.235s,FAILED
+delay,Chrome 65.0.3302.0,,2018-10-16 11:24:12,2018-10-16 11:24:13,1.016s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 11:24:13,2018-10-16 11:24:13,0.037s,FAILED

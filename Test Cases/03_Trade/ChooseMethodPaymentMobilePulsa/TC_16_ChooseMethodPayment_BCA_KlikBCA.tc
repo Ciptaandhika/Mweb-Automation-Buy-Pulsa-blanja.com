@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16_ChooseMethodPayment_BCA_KlikBCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0047e17b-c537-4655-aa2b-8d9182ada11b</testCaseGuid>
+   <variable>
+      <defaultValue>'blanja123'</defaultValue>
+      <description></description>
+      <id>a35571b9-ded0-4e87-afee-0e1364a24045</id>
+      <masked>false</masked>
+      <name>UserID</name>
+   </variable>
+</TestCaseEntity>

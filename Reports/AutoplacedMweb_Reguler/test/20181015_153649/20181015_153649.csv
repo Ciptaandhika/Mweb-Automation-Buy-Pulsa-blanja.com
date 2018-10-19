@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+test,Chrome 65.0.3302.0,,2018-10-15 15:36:51,2018-10-15 15:37:02,10.603s,ERROR
+,,,,,,
+Test Cases/01_Member/Login_Reguler,Chrome 65.0.3302.0,,2018-10-15 15:36:51,2018-10-15 15:36:56,4.257s,ERROR
+openBrowser,Chrome 65.0.3302.0,,2018-10-15 15:36:52,2018-10-15 15:36:56,3.474s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-15 15:36:56,2018-10-15 15:36:56,0.003s,PASSED
+,,,,,,
+Test Cases/03_PDP/PDP_Reguler,Chrome 65.0.3302.0,,2018-10-15 15:36:56,2018-10-15 15:37:01,5.211s,FAILED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-15 15:36:56,2018-10-15 15:36:59,2.785s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-15 15:36:59,2018-10-15 15:37:01,2.057s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-15 15:37:01,2018-10-15 15:37:01,0.166s,FAILED

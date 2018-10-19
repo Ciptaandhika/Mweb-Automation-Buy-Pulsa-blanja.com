@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca5c7a77-b117-4bb1-9fe0-31c23af9bd13</testCaseGuid>
+   <variable>
+      <defaultValue>'https://m.blanja.com/mobile/trades/index'</defaultValue>
+      <description></description>
+      <id>f9b0856d-fd4f-4293-8f56-6e626e5f24e0</id>
+      <masked>false</masked>
+      <name>memberOrderListUrl</name>
+   </variable>
+</TestCaseEntity>

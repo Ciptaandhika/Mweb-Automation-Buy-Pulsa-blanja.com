@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_22_Autoplaced_DebitOnline,Chrome 65.0.3302.0,,2018-10-11 14:38:54,2018-10-11 14:39:19,25.733s,PASSED
+,,,,,,
+Test Cases/01_Member/Login Mobile,Chrome 65.0.3302.0,,2018-10-11 14:38:54,2018-10-11 14:39:15,21.174s,PASSED
+openBrowser,Chrome 65.0.3302.0,,2018-10-11 14:38:55,2018-10-11 14:38:58,3.320s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 14:38:58,2018-10-11 14:39:00,1.701s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 14:39:00,2018-10-11 14:39:00,0.266s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 14:39:00,2018-10-11 14:39:00,0.199s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 14:39:00,2018-10-11 14:39:01,1.055s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 14:39:01,2018-10-11 14:39:03,2.029s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 14:39:03,2018-10-11 14:39:07,3.571s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 14:39:07,2018-10-11 14:39:09,2.010s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 14:39:09,2018-10-11 14:39:09,0.266s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 14:39:09,2018-10-11 14:39:11,2.004s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 14:39:11,2018-10-11 14:39:11,0.113s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 14:39:11,2018-10-11 14:39:12,1.001s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 14:39:12,2018-10-11 14:39:12,0.096s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 14:39:12,2018-10-11 14:39:13,1.005s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 14:39:13,2018-10-11 14:39:14,1.038s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 14:39:14,2018-10-11 14:39:15,1.003s,PASSED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_22_ChooseMethodPayment_DebitOnline,Chrome 65.0.3302.0,,2018-10-11 14:39:15,2018-10-11 14:39:16,0.628s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 14:39:16,2018-10-11 14:39:16,0.323s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 65.0.3302.0,,2018-10-11 14:39:16,2018-10-11 14:39:16,0.036s,PASSED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-11 14:39:16,2018-10-11 14:39:19,2.648s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 14:39:16,2018-10-11 14:39:16,0.138s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 14:39:16,2018-10-11 14:39:17,0.942s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 65.0.3302.0,,2018-10-11 14:39:17,2018-10-11 14:39:19,1.281s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 65.0.3302.0,,2018-10-11 14:39:19,2018-10-11 14:39:19,0.012s,PASSED
+blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport,Chrome 65.0.3302.0,,2018-10-11 14:39:19,2018-10-11 14:39:19,0.010s,PASSED

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_ChooseMethodPayment_Mandiri_Kartu_KreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54034bf5-c9fa-4f1e-9b04-acb5e76139f6</testCaseGuid>
+</TestCaseEntity>

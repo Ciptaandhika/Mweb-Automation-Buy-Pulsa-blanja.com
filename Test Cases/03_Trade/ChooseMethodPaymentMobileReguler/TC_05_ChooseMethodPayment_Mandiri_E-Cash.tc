@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_ChooseMethodPayment_Mandiri_E-Cash</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d0926a2-558d-42b9-953a-2e823bf4908c</testCaseGuid>
+</TestCaseEntity>

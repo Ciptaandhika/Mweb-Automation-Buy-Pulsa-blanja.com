@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_ChooseMethodPayment_BRI_BankTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cef973f4-a0a6-468d-b4a6-dbe32bd43c54</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_24_ChooseMethodPayment_BayarVia_T-Money</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b58a8270-6f21-4f9d-a497-af7c48baaecd</testCaseGuid>
+</TestCaseEntity>

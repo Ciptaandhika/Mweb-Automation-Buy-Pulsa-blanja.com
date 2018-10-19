@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_TransferBank,Firefox 60.0,,2018-10-17 14:13:41,2018-10-17 14:14:31,50.168s,INCOMPLETE
+,,,,,,
+Test Cases/01_Member/Login_Reguler,Firefox 60.0,,2018-10-17 14:13:41,2018-10-17 14:14:28,46.871s,FAILED
+openBrowser,Firefox 60.0,,2018-10-17 14:13:42,2018-10-17 14:13:51,9.028s,PASSED
+navigateToUrl,Firefox 60.0,,2018-10-17 14:13:51,2018-10-17 14:13:52,0.791s,PASSED
+maximizeWindow,Firefox 60.0,,2018-10-17 14:13:52,2018-10-17 14:13:56,3.550s,PASSED
+setText,Firefox 60.0,,2018-10-17 14:13:56,2018-10-17 14:13:57,1.227s,PASSED
+setText,Firefox 60.0,,2018-10-17 14:13:57,2018-10-17 14:13:57,0.224s,PASSED
+click,Firefox 60.0,,2018-10-17 14:13:57,2018-10-17 14:14:28,31.082s,FAILED
+,,,,,,
+Test Cases/02_PDP/PDP_Reguler,Firefox 60.0,,2018-10-17 14:14:28,2018-10-17 14:14:29,0.472s,FAILED
+navigateToUrl,Firefox 60.0,,2018-10-17 14:14:29,2018-10-17 14:14:29,0.018s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank,Firefox 60.0,,2018-10-17 14:14:29,2018-10-17 14:14:29,0.374s,FAILED
+selectOptionByLabel,Firefox 60.0,,2018-10-17 14:14:29,2018-10-17 14:14:29,0.038s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Firefox 60.0,,2018-10-17 14:14:29,2018-10-17 14:14:31,1.495s,FAILED
+delay,Firefox 60.0,,2018-10-17 14:14:30,2018-10-17 14:14:31,1.035s,PASSED
+click,Firefox 60.0,,2018-10-17 14:14:31,2018-10-17 14:14:31,0.028s,FAILED

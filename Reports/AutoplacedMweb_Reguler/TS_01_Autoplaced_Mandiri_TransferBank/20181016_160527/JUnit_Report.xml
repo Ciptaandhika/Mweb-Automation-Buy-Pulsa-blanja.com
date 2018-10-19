@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_01_Autoplaced_Mandiri_TransferBank" time="31" tests="4" failures="0" errors="0">
+   <testsuite name="TS_01_Autoplaced_Mandiri_TransferBank" tests="4" failures="0" errors="0" time="31" timestamp="2018-10-16 16:05:29" hostname="cipta.andhika - CIPTA-E460.ad.metraplasa.co.id" id="Test Suites/AutoplacedMweb_Reguler/TS_01_Autoplaced_Mandiri_TransferBank">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMweb_Reguler\\TS_01_Autoplaced_Mandiri_TransferBank\\20181016_160527"/>
+         <property name="logFiles" value="C:\\Users\\cipta.andhika\\Katalon Studio\\Blanja_Mobile_Pulsa\\Reports\\AutoplacedMweb_Reguler\\TS_01_Autoplaced_Mandiri_TransferBank\\20181016_160527\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="cipta.andhika - CIPTA-E460.ad.metraplasa.co.id"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 65.0.3302.0"/>
+         <property name="hostAddress" value="10.10.99.244"/>
+         <property name="sessionId" value="e4f9c0f32889b267de569b163076653a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/01_Member/Login_Reguler" classname="Test Cases/01_Member/Login_Reguler" status="PASSED">
+         <system-out><![CDATA[2018-10-16 16:05:30 - [TEST_CASE][PASSED] - Test Cases/01_Member/Login_Reguler: Test Cases/01_Member/Login_Reguler
+
+2018-10-16 16:05:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-16 16:05:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-16 16:05:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/member/login' successfully
+
+2018-10-16 16:05:35 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/member/login' successfully
+
+2018-10-16 16:05:35 - [TEST_STEP][PASSED] - setText: Text 'testblj2' is set on object 'Object Repository/Member_Login/username'
+
+2018-10-16 16:05:36 - [MESSAGE][PASSED] - Text 'testblj2' is set on object 'Object Repository/Member_Login/username'
+
+2018-10-16 16:05:36 - [TEST_STEP][PASSED] - setText: Text '123qwe' is set on object 'Object Repository/Member_Login/password'
+
+2018-10-16 16:05:36 - [MESSAGE][PASSED] - Text '123qwe' is set on object 'Object Repository/Member_Login/password'
+
+2018-10-16 16:05:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Member_Login/Button_Masuk' is clicked on
+
+2018-10-16 16:05:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Member_Login/Button_Masuk' is clicked on
+
+2018-10-16 16:05:37 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 16:05:39 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/02_PDP/PDP_Reguler" classname="Test Cases/02_PDP/PDP_Reguler" status="PASSED">
+         <system-out><![CDATA[2018-10-16 16:05:39 - [TEST_CASE][PASSED] - Test Cases/02_PDP/PDP_Reguler: Test Cases/02_PDP/PDP_Reguler
+
+2018-10-16 16:05:39 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/item/jual-beli-pantene-black-shine-18983897' successfully
+
+2018-10-16 16:05:42 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/item/jual-beli-pantene-black-shine-18983897' successfully
+
+2018-10-16 16:05:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 16:05:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 16:05:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/close_dialog_gojek' is clicked on
+
+2018-10-16 16:05:44 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/close_dialog_gojek' is clicked on
+
+2018-10-16 16:05:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 16:05:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 16:05:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_tambah_ketroli' is clicked on
+
+2018-10-16 16:05:46 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_tambah_ketroli' is clicked on
+
+2018-10-16 16:05:46 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 16:05:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 16:05:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_ke_pembayaran' is clicked on
+
+2018-10-16 16:05:49 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_ke_pembayaran' is clicked on
+
+2018-10-16 16:05:49 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-16 16:05:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 16:05:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/PDP/Btn_Pembayaran' is clicked on
+
+2018-10-16 16:05:54 - [MESSAGE][PASSED] - Object: 'Object Repository/PDP/Btn_Pembayaran' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank" classname="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank" status="PASSED">
+         <system-out><![CDATA[2018-10-16 16:05:54 - [TEST_CASE][PASSED] - Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank
+
+2018-10-16 16:05:54 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Kurir Standar' are selected in object 'Object Repository/Jasa_Pengiriman/Pilih_Pengiriman' 
+
+2018-10-16 16:05:54 - [MESSAGE][PASSED] - All options with label 'Kurir Standar' are selected in object 'Object Repository/Jasa_Pengiriman/Pilih_Pengiriman' 
+
+2018-10-16 16:05:54 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 16:05:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 16:05:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/Click_Bank/ClickBank/Click_01_Mandiri' is clicked on
+
+2018-10-16 16:05:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/Click_Bank/ClickBank/Click_01_Mandiri' is clicked on
+
+2018-10-16 16:05:55 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 16:05:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 16:05:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/Click_Bank/Mandiri_Reguler/Click_1_Mandiri_TransferBank' is clicked on
+
+2018-10-16 16:05:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/Click_Bank/Mandiri_Reguler/Click_1_Mandiri_TransferBank' is clicked on
+
+2018-10-16 16:05:56 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 16:05:56 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" classname="Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced" status="PASSED">
+         <system-out><![CDATA[2018-10-16 16:05:56 - [TEST_CASE][PASSED] - Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced
+
+2018-10-16 16:05:57 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-10-16 16:05:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-10-16 16:05:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Trade_Payment_Method/input_checkOut_Reguler' is clicked on
+
+2018-10-16 16:05:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Trade_Payment_Method/input_checkOut_Reguler' is clicked on
+
+2018-10-16 16:05:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://m.blanja.com/mobile/trades/index' successfully
+
+2018-10-16 16:05:59 - [MESSAGE][PASSED] - Navigate to 'https://m.blanja.com/mobile/trades/index' successfully
+
+2018-10-16 16:05:59 - [TEST_STEP][PASSED] - Statement - orderNumber = " - " + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Member_BlanjaanSaya/Label_FirstOrderNumber)): Text of object 'Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'No. Order : 418692756315084019
+16 Okt 2018 15:56
+Pantene Black Shine
+ '
+
+2018-10-16 16:06:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber' is: 'No. Order : 418692756315084019
+16 Okt 2018 15:56
+Pantene Black Shine
+ '
+
+2018-10-16 16:06:00 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 16:06:00 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 16:06:00 - [TEST_STEP][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport: blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED
+
+2018-10-16 16:06:00 - [MESSAGE][PASSED] - blj.common.report.Autoplaced.AppendToBlanjaAutoplacedReport is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-16 16:05:29 - [TEST_SUITE][PASSED] - TS_01_Autoplaced_Mandiri_TransferBank: Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

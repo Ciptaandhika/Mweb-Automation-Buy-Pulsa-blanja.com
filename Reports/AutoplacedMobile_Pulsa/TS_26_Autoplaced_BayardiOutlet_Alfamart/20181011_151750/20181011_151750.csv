@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_26_Autoplaced_BayardiOutlet_Alfamart,Chrome 65.0.3302.0,,2018-10-11 15:17:52,2018-10-11 15:18:02,10.474s,FAILED
+,,,,,,
+Test Cases/01_Member/Login Mobile,Chrome 65.0.3302.0,,2018-10-11 15:17:52,2018-10-11 15:18:01,8.847s,FAILED
+openBrowser,Chrome 65.0.3302.0,,2018-10-11 15:17:53,2018-10-11 15:17:56,3.497s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 15:17:56,2018-10-11 15:17:58,1.725s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 15:17:58,2018-10-11 15:17:58,0.275s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-11 15:17:58,2018-10-11 15:17:58,0.178s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-11 15:17:58,2018-10-11 15:17:59,0.520s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-11 15:17:59,2018-10-11 15:18:01,2.034s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-11 15:18:01,2018-10-11 15:18:01,0.072s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_25_ChooseMethodPayment_BayardiOutlet_Indomaret,Chrome 65.0.3302.0,,2018-10-11 15:18:01,2018-10-11 15:18:01,0.209s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-11 15:18:01,2018-10-11 15:18:01,0.027s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-11 15:18:01,2018-10-11 15:18:02,0.306s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-11 15:18:02,2018-10-11 15:18:02,0.018s,FAILED

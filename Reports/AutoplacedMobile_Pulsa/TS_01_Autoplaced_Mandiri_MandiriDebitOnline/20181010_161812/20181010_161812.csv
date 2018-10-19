@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_MandiriDebitOnline,Chrome 65.0.3302.0,,2018-10-10 16:18:14,2018-10-10 16:19:15,1m - 0.807s,FAILED
+,,,,,,
+Test Cases/01_Member/Login Mobile,Chrome 65.0.3302.0,,2018-10-10 16:18:14,2018-10-10 16:18:36,21.848s,PASSED
+openBrowser,Chrome 65.0.3302.0,,2018-10-10 16:18:15,2018-10-10 16:18:18,3.437s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-10 16:18:18,2018-10-10 16:18:22,3.896s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-10 16:18:22,2018-10-10 16:18:23,0.235s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-10 16:18:23,2018-10-10 16:18:23,0.201s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:23,2018-10-10 16:18:24,1.004s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:24,2018-10-10 16:18:26,2.035s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-10 16:18:26,2018-10-10 16:18:28,2.177s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:28,2018-10-10 16:18:30,2.005s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-10 16:18:30,2018-10-10 16:18:30,0.217s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:30,2018-10-10 16:18:32,2.003s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:32,2018-10-10 16:18:32,0.128s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:32,2018-10-10 16:18:33,1.005s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:33,2018-10-10 16:18:34,0.133s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:34,2018-10-10 16:18:35,1.006s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:35,2018-10-10 16:18:35,0.797s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:35,2018-10-10 16:18:36,1.001s,PASSED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_01_ChooseMethodPayment_Mandiri_DebitOnline,Chrome 65.0.3302.0,,2018-10-10 16:18:36,2018-10-10 16:18:39,2.539s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:37,2018-10-10 16:18:37,0.141s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 16:18:37,2018-10-10 16:18:38,1.002s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:38,2018-10-10 16:18:38,0.254s,PASSED
+"Statement - paymentMethod = ""Mandiri "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Trade_Payment_Method/labelPaymentMethodPulsa/label_Mandiri Debit Online))",Chrome 65.0.3302.0,,2018-10-10 16:18:38,2018-10-10 16:18:39,0.882s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-10 16:18:39,2018-10-10 16:19:14,35.149s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-10 16:18:39,2018-10-10 16:18:39,0.115s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-10 16:18:39,2018-10-10 16:18:40,0.511s,PASSED
+"Statement - orderNumber = "" - "" + com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Member_BlanjaanSaya/Label_FirstOrderNumber))",Chrome 65.0.3302.0,,2018-10-10 16:18:40,2018-10-10 16:19:14,34.330s,FAILED

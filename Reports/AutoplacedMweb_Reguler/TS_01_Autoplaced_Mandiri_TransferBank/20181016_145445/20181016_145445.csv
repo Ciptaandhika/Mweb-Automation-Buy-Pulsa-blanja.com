@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_TransferBank,Chrome 65.0.3302.0,,2018-10-16 14:54:47,2018-10-16 14:55:36,48.802s,FAILED
+,,,,,,
+Test Cases/01_Member/Login_Reguler,Chrome 65.0.3302.0,,2018-10-16 14:54:48,2018-10-16 14:54:57,9.331s,PASSED
+openBrowser,Chrome 65.0.3302.0,,2018-10-16 14:54:48,2018-10-16 14:54:52,3.576s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 14:54:52,2018-10-16 14:54:54,1.676s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-16 14:54:54,2018-10-16 14:54:54,0.268s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-16 14:54:54,2018-10-16 14:54:54,0.185s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 14:54:54,2018-10-16 14:54:55,1.136s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 14:54:55,2018-10-16 14:54:57,2.031s,PASSED
+,,,,,,
+Test Cases/02_PDP/PDP_Reguler,Chrome 65.0.3302.0,,2018-10-16 14:54:57,2018-10-16 14:55:08,10.803s,FAILED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-16 14:54:57,2018-10-16 14:55:05,7.649s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-16 14:55:05,2018-10-16 14:55:07,2.004s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 14:55:07,2018-10-16 14:55:08,0.903s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_01_ChooseMethodPayment_Mandiri_TransferBank,Chrome 65.0.3302.0,,2018-10-16 14:55:08,2018-10-16 14:55:26,18.246s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-16 14:55:08,2018-10-16 14:55:26,17.999s,FAILED
+,,,,,,
+Test Cases/03_Trade/ChooseMethodPaymentMobileReguler/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-16 14:55:26,2018-10-16 14:55:36,9.293s,FAILED
+delay,Chrome 65.0.3302.0,,2018-10-16 14:55:26,2018-10-16 14:55:27,1.003s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-16 14:55:27,2018-10-16 14:55:36,8.073s,FAILED

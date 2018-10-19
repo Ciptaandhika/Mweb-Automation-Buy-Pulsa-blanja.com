@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS_01_Autoplaced_Mandiri_MandiriDebitOnline,Chrome 65.0.3302.0,,2018-10-10 18:21:02,2018-10-10 18:21:11,9.725s,FAILED
+,,,,,,
+Test Cases/01_Member/Login Mobile,Chrome 65.0.3302.0,,2018-10-10 18:21:02,2018-10-10 18:21:10,7.980s,FAILED
+openBrowser,Chrome 65.0.3302.0,,2018-10-10 18:21:03,2018-10-10 18:21:06,3.473s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-10 18:21:06,2018-10-10 18:21:07,1.044s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-10 18:21:07,2018-10-10 18:21:07,0.260s,PASSED
+setText,Chrome 65.0.3302.0,,2018-10-10 18:21:07,2018-10-10 18:21:08,0.144s,PASSED
+click,Chrome 65.0.3302.0,,2018-10-10 18:21:08,2018-10-10 18:21:08,0.369s,PASSED
+delay,Chrome 65.0.3302.0,,2018-10-10 18:21:08,2018-10-10 18:21:10,2.031s,PASSED
+navigateToUrl,Chrome 65.0.3302.0,,2018-10-10 18:21:10,2018-10-10 18:21:10,0.050s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_01_ChooseMethodPayment_Mandiri_DebitOnline,Chrome 65.0.3302.0,,2018-10-10 18:21:10,2018-10-10 18:21:10,0.275s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-10 18:21:10,2018-10-10 18:21:10,0.020s,FAILED
+,,,,,,
+Test Cases/02_ChooseMethodPaymentMobilePulsa/TC_ClickCheckout_GetLastOrderID_ExportTo_Blanja_Autoplaced,Chrome 65.0.3302.0,,2018-10-10 18:21:10,2018-10-10 18:21:11,0.260s,FAILED
+click,Chrome 65.0.3302.0,,2018-10-10 18:21:11,2018-10-10 18:21:11,0.024s,FAILED

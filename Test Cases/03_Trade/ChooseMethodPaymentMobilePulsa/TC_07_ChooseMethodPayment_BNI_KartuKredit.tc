@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07_ChooseMethodPayment_BNI_KartuKredit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35ffbbb6-ac85-41c7-9358-c655dd17f2b1</testCaseGuid>
+</TestCaseEntity>

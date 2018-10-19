@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12_ChooseMethodPayment_BRI_KartuKreditCicilan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ced3b423-b2a3-499c-bf8d-799ab38ea5ff</testCaseGuid>
+</TestCaseEntity>
